@@ -140,18 +140,6 @@ AI accelerates the workflow; engineering judgment remains responsible for archit
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ranjithkannan23&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranjithkannan23&layout=compact&hide_border=true&theme=transparent" />
-
-<br>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ranjithkannan23&theme=github-compact&hide_border=true&area=true" />
-
 </div>
 
 ---
